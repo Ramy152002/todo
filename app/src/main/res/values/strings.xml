@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todoro</string>
+    <string name="text1">Hi</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+
+</resources>
